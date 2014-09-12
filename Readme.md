@@ -11,7 +11,7 @@ Installation
 ------------
 - Locate your Zotero directory, by clicking "Show Data Directory" in Zotero/preferences/advanced/Files and Folders/ 
 - For more details, see [this guide](https://www.zotero.org/support/zotero_data)
-- In the Zotero directory, open the "styles" folder, and save the CSL file ([click save as to download raw file](https://raw.githubusercontent.com/fredheir/JSPPS/master/jspps.csl))there. Now restart Zotero.
+- In the Zotero directory, open the "styles" folder, and save the CSL file ([click save as to download raw file](https://raw.githubusercontent.com/fredheir/JSPPS/master/jspps.csl)). Now restart Zotero.
 
 
 Changelog, V0.1, 12 September 2014
